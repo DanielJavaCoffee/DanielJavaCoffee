@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![DanielJavaCoffee GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielJavaCoffee&show_icons=true&theme=radical)
+
+### Tecnologias que eu uso no meu dia
+
+ <div style="display: inline_block"><br/>
+   <img align="center" alt"java" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+ </div>
