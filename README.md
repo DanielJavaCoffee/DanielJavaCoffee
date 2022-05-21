@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![DanielJavaCoffee](https://github-readme-stats.vercel.app/api?username=DanielJavaCoffee&show_icons=true&theme=radical)
+![DanielJavaCoffee GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielJavaCoffee&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
 
@@ -22,5 +22,4 @@ Here are some ideas to get you started:
    <img align="center" alt="java" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
    <img align="center" alt="mysql" scr="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit" />
    <img align="center" alt="css" scr="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
- 
  </div>
