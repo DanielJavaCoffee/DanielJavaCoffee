@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![DanielJavaCoffee GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielJavaCoffee&show_icons=true&theme=radical)
+![DanielJavaCoffee GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielJava Coffee&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
 
