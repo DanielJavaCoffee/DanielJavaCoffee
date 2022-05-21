@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Tecnologias que eu uso no meu dia
 
  <div style="display: inline_block"><br/>
-   <img align="center" alt="java" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+   <img align="center" alt="java" scr="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
    <img align="center" alt="mysql" scr="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit" />
    <img align="center" alt="css" scr="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
  </div>
