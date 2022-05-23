@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ![DanielJavaCoffee GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielJavaCoffee&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameDanielJavaCoffe)](https://github.com/DanielJavaCoffee/github-readme-status)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJavaCoffee)](https://github.com/DanielJavaCoffee/github-readme-stats)
 
  
